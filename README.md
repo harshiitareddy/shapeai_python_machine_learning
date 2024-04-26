@@ -8,6 +8,5 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <li>Python
 <li>Machine Learning
 <li>Tensorflow
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
+
 
